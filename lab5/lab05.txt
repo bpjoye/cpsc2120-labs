@@ -1,0 +1,9 @@
+Utah Nevada 3
+Utah Colorado 4
+Colorado Wyoming 3
+Wyoming Montana 5
+Wyoming Kansas 6
+#####
+Utah Wyoming
+Montana Colorado
+Kansas Nevada
